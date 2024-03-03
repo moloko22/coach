@@ -1,0 +1,16 @@
+{
+  "name": "coach",
+  "version": "1.0.0",
+  "description": "A telegram bot to help you with your trainings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coach",
+    "bot",
+    "telegram"
+  ],
+  "author": "Illia Tsapu",
+  "license": "ISC"
+}
